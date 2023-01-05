@@ -9,7 +9,7 @@ body body:
 boolean $open: true
 
 -- ftd.column:
-border-width.px: 1
+border-width.px: 4
 width.fixed.percent: 50
 
 
@@ -19,7 +19,7 @@ border-color: black
 spacing-mode: space-between
 padding-vertical.px: 15
 padding-horizontal.px: 20
-border-bottom-width.px if { box.open }: 1
+border-bottom-width.px if { box.open }: 4
 border-bottom-width.px if { !box.open }: 0
 $on-click$: $toggle($value=$box.open)
 
