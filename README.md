@@ -1,6 +1,6 @@
 # expander
 
-Working: https://ftd-lang.github.io/expander/
+Working demo: https://ftd-lang.github.io/expander/
 
 To use in your FPM package, add it to your `FPM.ftd` file as a dependency:
 
