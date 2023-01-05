@@ -1,0 +1,4 @@
+-- import: fpm
+
+-- fpm.package: ftd-lang.github.io/expander
+download-base-url: https://raw.githubusercontent.com/ftd-lang/expander/main
